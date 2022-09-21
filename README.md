@@ -1,7 +1,12 @@
 # Car-Rental
 Online Car Rental Management System 
 
-This is a Web based Application developed using PHP as a Host Language. Database for the Application is in "Database" folder. It can be imported to your localhost(phpMyAdmin) or any other servers. Also configure the "connection.php" to set up the necessary connections with the database.
+This car rental project system project in PHP focuses mainly on dealing with customers regarding their car rental hours and certain transactions.
+The project is divided into two categories: Customer Login and Employee Login. 
+
+In an overview of this web app, the employee has full control of the system. Talking about the project, a customer can simply log in or register their accounts. 
+
+The customer can view all his rental records and history once after logging onto the system. In addition, the customer needs to return the cars using the system because all the records are carried throughout the system. At last, the system prints an invoice stating all the information with total costs.
 
 ### Screenshots:
 > - Home Page <br></br>
